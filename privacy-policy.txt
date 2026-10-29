@@ -1,0 +1,70 @@
+Dragon Parade — Privacy policy
+Effective date: 29 October 2026
+Developer: Florin (FlorinCor)
+Android package: com.florin.dragonparade
+Privacy contact: cordunianuflorin@gmail.com
+Online policy: https://florincor.github.io/dragon-parade-privacy/
+
+1. About this policy
+
+This policy describes how Dragon Parade handles information when you play the Android game, use its advertising and privacy features, contact the developer, or visit this policy page. The development package com.florin.dragonparade.dev uses Google test ads; the published Android package is identified above.
+
+The campaign can be played offline. No game account, sign-in, purchase, chat, or player-upload feature is provided. Advertising and opening external links use an internet connection.
+
+2. Game data stored on your device
+
+Dragon Parade stores unlocked levels, completed courses, best body lengths, stars, tutorial progress, and sound, music, and haptic preferences in the app's private storage. A local backup helps recover saved progress. These records support gameplay and are not uploaded to a developer-operated game server. The game does not provide a cloud-save service.
+
+The game does not request access to your contacts, photos, microphone, camera, or precise GPS location. Its vibration feature provides game feedback. Advertising-related network activity is described separately below.
+
+3. Google AdMob advertising
+
+The Android game integrates Google's Mobile Ads SDK to display app-open advertisements. Google can collect and share IP addresses (which can indicate approximate location), app and ad interactions such as launches, taps and video views, performance and diagnostic information, and device identifiers such as the Android advertising ID and app set ID. Other device-account identifiers can be involved where applicable.
+
+Google uses advertising data to serve and measure ads, provide advertising analytics, and prevent fraud or abuse. Depending on consent, eligibility, and settings, ads may be personalized. Google and advertising technology providers involved in serving an ad can process this information. The developer can receive advertising reports through AdMob; there is no separate game-analytics or developer crash-reporting service in this version.
+
+Google's own policies explain its processing, sharing, retention, and international transfers:
+https://policies.google.com/privacy
+https://policies.google.com/technologies/partner-sites
+
+4. Consent and advertising choices
+
+Google's User Messaging Platform is used to request consent information and present a consent form when required. It handles consent choices and related device or network information, and stores consent state so your choices can be applied. Ads are requested only when the platform indicates that requests are permitted. If consent or advertising cannot be loaded, the game can continue without an ad.
+
+Open Settings in the game to read this policy at any time. A separate Privacy choices entry appears when Google's consent platform requires it, so you can review or change the choices that it offers. Changing an advertising preference does not necessarily stop all advertising-related processing; non-personalized or limited ads can still involve data needed to deliver, measure, or protect ads.
+
+You can also review Google's advertising controls at https://myadcenter.google.com/ and your Android advertising/privacy settings, including options to reset or delete the advertising ID where available. The available controls depend on your device and region. Consent can be withdrawn through the available privacy choices without affecting processing that already occurred lawfully.
+
+5. Information you send to support
+
+If you email cordunianuflorin@gmail.com, the developer receives your email address, message, and any information or attachments you choose to send. This information is used to respond to your request, troubleshoot problems, and maintain relevant support records. Do not send passwords or unnecessary sensitive information. Support correspondence is handled through the developer's email provider, Google/Gmail, under its applicable privacy and security practices.
+
+6. Retention, deletion, and your rights
+
+Local game progress and settings remain until you clear the app's storage or uninstall it, subject to Android's own storage and device-transfer behavior. Clearing storage removes local progress and preferences. The developer cannot remotely identify, retrieve, or delete a save that stays only on your device. There is no game account to delete.
+
+Support correspondence is retained for as long as needed to address the request, keep relevant records, or meet applicable legal obligations. You can request its deletion using the privacy contact above. Google determines the retention of information processed by its services under Google's policies and your applicable controls; deleting the game does not by itself delete information already held by Google.
+
+Depending on applicable law, you may have rights to access, correct, delete, restrict, or object to processing of your personal information, receive a portable copy, withdraw consent, or raise a concern with a data-protection authority. Contact the developer about information you provided directly. For information held by Google, use Google's privacy and account controls or contact Google. Reasonable verification may be necessary to handle a request.
+
+7. Security and international processing
+
+Local saves use Android's app-private storage. Google states that data collected by its Mobile Ads SDK is encrypted in transit using TLS. Support email and third-party services are subject to their providers' security practices. No storage or transmission method can be guaranteed completely secure.
+
+Google, GitHub, and their service providers can process information on servers outside your country. Their privacy policies describe the safeguards and transfer mechanisms applicable to their services. This version has no developer-operated game database to transfer.
+
+8. Children and parents
+
+The game does not ask players to provide their name, email address, age, or a game account to play. The advertising processing described above can still occur when ads are requested. Parents and guardians can use the available device and advertising privacy controls. If you believe a child has sent personal information to the developer through support, contact cordunianuflorin@gmail.com so the request can be reviewed and the information deleted where appropriate.
+
+9. Visiting this page and external links
+
+The online copy of this policy is hosted on GitHub Pages. GitHub logs visitors' IP addresses for security purposes. This policy page adds no analytics, tracking scripts, forms, cookies, remote fonts, or embedded advertisements. Opening links to Google, GitHub, your browser, or an email application is subject to the relevant provider's privacy practices.
+
+GitHub's privacy statement: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+
+10. Changes and contact
+
+This policy can be updated when the game or its data handling changes. The effective date above identifies this version. Updated public text is published at https://florincor.github.io/dragon-parade-privacy/; an installed game's offline copy corresponds to that app build.
+
+For privacy questions or requests, contact Florin (FlorinCor) at cordunianuflorin@gmail.com and mention Dragon Parade.
